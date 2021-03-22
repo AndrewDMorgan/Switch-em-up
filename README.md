@@ -7,4 +7,4 @@ credit to manhsterz@gmail.com and Manhsterz Musics (on itch.io) for composing an
 
 This project was created for the ScoreSpace #12 game jam.
 
-Run the "main.py" file to play the game (you'll hve to uncompress the zip file)
+Run the "main.py" file to play the game (you'll have to uncompress the zip file)
