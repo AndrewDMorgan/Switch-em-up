@@ -1,6 +1,6 @@
 # Switch-em-up
 
-credit to manhsterz@gmail.com and Manhsterz Musics (on itch.io) for composing and designing the sounds for the game. Here's a link to his channel and some of his other projects https://www.youtube.com/channel/UCkaLiaeZeS4_wwf4VAtIxPw.
+credit to manhsterz@gmail.com and Manhsterz Musics (on itch.io) for composing and designing the sounds for the game. Here's a link to his youtube channel https://www.youtube.com/channel/UCkaLiaeZeS4_wwf4VAtIxPw.
 
 
 # ScoreSpace #12
