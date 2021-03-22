@@ -1,6 +1,6 @@
 # Switch-em-up
 
-credit to manhsterz@gmail.com for composing and desging the sounds for the game.
+credit to manhsterz@gmail.com for composing and designing the sounds for the game.
 
 
 # ScoreSpace #12
